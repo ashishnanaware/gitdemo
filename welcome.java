@@ -1,1 +1,7 @@
-This is demo of the java
+public class demo{
+  public static void main(String []args){
+    System.out.println("this is demo ");
+    System.out.println("this is demo ");
+    System.out.println("this is demo ");
+  }
+}
