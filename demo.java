@@ -1,9 +1,0 @@
-`afadfa
-fad
-fAD
-f
-ADf
-ADf
-AD
-fAD
-f`
